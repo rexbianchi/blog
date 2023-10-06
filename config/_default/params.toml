@@ -73,3 +73,18 @@ enabled = true
 [imageProcessing.content]
 enabled = true
 
+[comments]
+enabled = true
+provider = "giscus"
+
+[comments.giscus]
+repo = "rexbianchi/blog"
+repoID = "R_kgDOKcpPng"
+category = "Announcements"
+categoryID = "DIC_kwDOKcpPns4CZ57N"
+mapping = "pathname"
+lightTheme = "light"
+darkTheme = "dark"
+reactionsEnabled = "1"
+emitMetadata = "1"
+inputPosition = "top"
