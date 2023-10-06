@@ -1,5 +1,5 @@
 baseurl = "https://rexbianchi.com/"
-title = "Hugo Theme Stack Starter"
+title = "Rex Bianchi"
 theme = 'hugo-theme-stack'
 languageCode = "en-us"
 paginate = 5

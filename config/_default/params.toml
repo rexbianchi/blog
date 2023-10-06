@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
 [dateFormat]
@@ -73,6 +73,7 @@ enabled = true
 [imageProcessing.content]
 enabled = true
 
+
 [comments]
 enabled = true
 provider = "giscus"
@@ -80,8 +81,8 @@ provider = "giscus"
 [comments.giscus]
 repo = "rexbianchi/blog"
 repoID = "R_kgDOKcpPng"
-category = "Announcements"
-categoryID = "DIC_kwDOKcpPns4CZ57N"
+category = "Comments"
+categoryID = "DIC_kwDOKcpPns4CZ58p"
 mapping = "pathname"
 lightTheme = "light"
 darkTheme = "dark"
